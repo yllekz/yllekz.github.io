@@ -233,6 +233,7 @@ code {
 		a.menuanchorclass6 {color:#336dff; text-decoration:none; text-transform:uppercase; font-weight:bold; font-size:18px;} /* Link 6 */
 		a.menuanchorclass7 {color:#336dff; text-decoration:none; text-transform:uppercase; font-weight:bold; font-size:18px;} /* Link 7 */
 		a.menuanchorclass8 {color:#336dff; text-decoration:none; text-transform:uppercase; font-weight:bold; font-size:18px;} /* Link 8 */
+		a.menuanchorclass9 {color:#336dff; text-decoration:none; text-transform:uppercase; font-weight:bold; font-size:18px;} /* Link 9 */
 
 		/* Capstone bar links */
 		a.capstonebarlink:link {color:#336dff; font-family: Verdana, Geneva, sans-serif; text-decoration:none;}
@@ -434,6 +435,7 @@ code {
 	a.menuanchorclass6 {color:#336DFF; text-decoration:none; text-transform:uppercase; font-weight:bold; font-size:18px;} /* Link 6 */
 	a.menuanchorclass7 {color:#336DFF; text-decoration:none; text-transform:uppercase; font-weight:bold; font-size:18px;} /* Link 7 */
 	a.menuanchorclass8 {color:#336DFF; text-decoration:none; text-transform:uppercase; font-weight:bold; font-size:18px;} /* Link 8 */
+	a.menuanchorclass9 {color:#336DFF; text-decoration:none; text-transform:uppercase; font-weight:bold; font-size:18px;} /* Link 9 */
 
 	/* Capstone bar links */
 	a.capstonebarlink:link {color:#336DFF; font-family: Verdana, Geneva, sans-serif; text-decoration:none;}
